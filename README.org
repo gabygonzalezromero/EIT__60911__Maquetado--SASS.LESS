@@ -1,0 +1,107 @@
+#+TITLE : Maquetador Avanzado con LESS y SASS.
+#+CRÚEATOR: Educacion IT
+#+DESCRIPTION:
+#+KEYWORDS: EducacionIT HTML HTML5 CSS CSS3
+
+#+AUTHOR : Gaby Gonzalez Romero @ Educacion IT
+#+EMAIL: gabygonzalezromero@gmail.com
+#+LANGUAGE: es-AR.
+
+#+OPTIONS: tags:t todo:t num:t toc:t tasks:t @:t |:t
+
+# Lista de tareas por hacer
+* Task [1/4][25%]
+** DONE [#A] Repositorio de GitHub.
+** TODO [#A] Proyecto ?
+** TODO Kahoot
+*** Preguntas por clases.
+*** IT Credios ?
+** TODO Crear msg de bienvenida en el grupo de Discord
+
+
+* Clases [0/0][0%]
+** Clase # 1 [0/7][0%]
+SCHEDULED: <2022-12-05 Mon 20:00>
+*** TODO Checklist de la clase
+DEADLINE: <2022-12-02 Fri 20:00>
+*** TODO Presentacion.
+*** TODO Sobre la plataforma.
+*** TODO Discord + email personal.
+**** TODO Presentacion de cada alumno en Discord.
+*** TODO Encuesta sobre conocimientos previos.
+*** TODO Repaso de CSS3.
+*** TODO CSS vs. LESS (JS) vs SASS (Ruby).
+*** TODO Instalacion de SASS & LESS
+**** TODO Uso de la consola vs. PlugIn en VSCode.
+**** TODO Configuracion del Script en consola.
+Importancia de la consola, errores y mensajes.
+**** TODO NodeJS + JSON.
+
+** Clase # 2 [0/6][0%]
+SCHEDULED: <2022-12-07 Wed 20:00>
+*** TODO Checklist de la clase
+DEADLINE:<2022-12-06 Tue 20:00>
+*** TODO Repaso de la clase anterior
+*** TODO Introduccion a LESS.
+*** TODO Trabajemos con LESS.
+*** TODO Operaciones matematicas con LESS.
+*** TODO Funciones con LESS.
+
+** Clase # 3 [0/3][0%]
+SCHEDULED: <2022-12-12 Mon 20:00>
+*** TODO Checklist de la clase
+DEADLINE:<2022-12-09 Fri 20:00>
+*** TODO Repaso de la clase anterior.
+*** TODO Trabajo en clase con LESS.
+**** TODO Refactorizacion con LESS.
+
+** Clase # 4 [0/6][0%]
+SCHEDULED: <2022-12-14 Wed 20:00>
+*** TODO Checklist de la clase
+DEADLINE:<2022-12-13 Tue 20:00>
+*** TODO Repaso de la clase anterior.
+*** TODO Introduccion a SASS.
+*** TODO Trabajemos con SASS.
+*** TODO Funciones avanzadas con SASS.
+*** TODO Bucles y condicionales con SASS.
+
+** Clase # 5 [0/3][0%]
+SCHEDULED: <2022-12-19 Mon 20:00>
+*** TODO Checklist de la clase
+DEADLINE: <2022-12-16 Fri 20:00>
+*** TODO Repaso de la clase anterior.
+*** TODO Trabajo en clase con SASS.
+**** TODO Refactorizacion con SASS
+
+** Clase # 6 [/][%]
+SCHEDULED: <2022-12-21 Wed 20:00>
+*** TODO Checklist de la clase
+DEADLINE:<2022-12-20 Tue 20:00>
+*** TODO Repaso de la clase anterior.
+*** TODO Transformaciones.
+*** TODO Transformaciones avanzadas.
+*** TODO Transiciones.
+*** TODO Transiciones avanzadas.
+
+** Clase # 7 [/][%]
+SCHEDULED: <2022-12-21 Wed 20:00>
+*** TODO Checklist de la clase
+DEADLINE:<2022-12-20 Tue 20:00>
+*** TODO Repaso de la clase anterior.
+*** TODO Animaciones.
+*** TODO Animaciones avanzadas.
+*** TODO Conceptos avanzados.
+*** TODO Animaciones y JS.
+
+** Clase # 8 [0/1][%]
+SCHEDULED: <2022-12-28 Mon 20:00>
+*** TODO Checklist de la clase
+DEADLINE:<2022-12-27 Tue 20:00>
+*** TODO Repaso de la clase anterior.
+*** TODO Repaso de las clases anteriores.
+*** TODO Repaso de LESS y SASS.
+*** TODO Estructura de un proyecto completo con SASS.
+*** TODO Cierre.
+**** NOTE Sobre el grupo de Discord
+**** TODO
+**** TODO Encuesta final.
