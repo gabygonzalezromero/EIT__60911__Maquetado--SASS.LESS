@@ -9,7 +9,7 @@
 - [ ] Proyecto ?
 - [ ] Kahoot ?
 - [ ] Preguntas por clases.
-- [ ] Crear msg de bienvenida para el grupo en Discord
+- [X] Crear msg de bienvenida para el grupo en Discord
 
 ---
 ## Clases
