@@ -13,7 +13,7 @@
 
 ---
 ## Clases
-1. Clase [0/7] - `05/12/2022` de 20 a 22 hs.
+1. Clase [7/7] - `05/12/2022` de 20 a 22 hs.
     - [X] Checklist de la clase.
     - [X] Sobre la plataforma.
     - [X] Discord + email personal.
@@ -23,19 +23,32 @@
             - `section` > `article` > `Header` | `Aside` | `Main` | `Footer`.
         - Clases en CSS : `class='...'` (HTML) y en el archivo CSS : `.[...]`
         - ID en CSS : `id='...'` (HTML) y en el archivo CSS `#[...]`. Tratemos de reservarlo para el uso de JS (`js-[...]`). 
-        - Nomeclatura BEM ( Bloque - Elemento - Modificador ).
+        - Nomeclatura **BEM** ( Bloque - Elemento - Modificador ).
         - Estructura de un selector en CSS : `.body { [propiedad] : [valor] ; }`
         - Shorthand :
-            - propiedades > `[]-top` | `[]-right | `[]-buttom` | `[]-left`
-            - valores > 'propiedad : `[1 valor para top | right | buttom | left ]`', `propiedad : [1 valor top y buttom] [1 valor para right y left]` y `propiedad [1 valor para top] [1 valor para rigth] [1 valor para buttom] [1 valor para left]`
-        - Posicionamiento : `absolute | relative`.
+            - propiedades > `[]-top` | `[]-right` | `[]-buttom` | `[]-left`
+            - valores :
+                - `propiedad : [1 valor para top | right | buttom | left ]`',
+                - `propiedad : [1 valor top y buttom] [1 valor para right y left]`.
+                - `propiedad [1 valor para top] [1 valor para rigth] [1 valor para buttom] [1 valor para left]`
+        - Posicionamiento : `absolute` | `relative`.
         - Flexbox : `display : flex | inline-flex | block | grid | ... |`
         - Variables CSS : `:root { --[] ; }`
     - [X] CSS vs. LESS (JS) vs SASS (Ruby).
-        - Compilador : Ingresa un archivo .less / .sass / .scss | **Compilador** | .css
+        | Extension ingreso | Compilador    | Extension de egreso   |
+        | :---:             | :---:         | :---                  |
+        | .less             | LESS con JS   | .css                  |
+        | .scss             | SASS con Ruby | .css                  |
+        | .sass             | SASS con Ruby | .css                  |
     - [X] Instalacion de SASS & LESS.
+        - Instalar NodeJS y NPM.
         - Ver instrucciones en Discord.
-
+        - En el caso de que lo tengan instalado, verificar con :
+            - NodeJS : `node -v`.
+            - NPM : `npm -v`.
+            - Less : `less --version`.
+            - Sass : `sass --versio`.
+---
 2. Clase [0/6] - `07/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase.
     - [ ] Repaso de la clase anterior
