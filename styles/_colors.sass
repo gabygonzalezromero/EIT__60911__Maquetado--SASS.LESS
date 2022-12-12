@@ -1,0 +1,20 @@
+
+.header
+    color : red
+    background-color : blue
+
+
+@mixin Flex ( $display , ... )
+    display : $display
+    flex-flow : $flex-flow
+    justify-content : $justify-content
+    align-content : $align-content
+
+
+.header
+  @include Flex ( flex , row nowrap , center , left )
+
+  width: 100px
+  height: 100px
+
+

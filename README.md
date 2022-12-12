@@ -47,21 +47,34 @@
             - NodeJS : `node -v`.
             - NPM : `npm -v`.
             - Less : `less --version`.
-            - Sass : `sass --versio`.
+            - Sass : `sass --version`.
 ---
 2. Clase [0/6] - `07/12/2022` de 20 a 22 hs.
-    - [ ] Checklist de la clase.
-    - [ ] Repaso de la clase anterior
-    - [ ] Introduccion a LESS.
-    - [ ] Trabajemos con LESS.
-    - [ ] Operaciones matematicas con LESS.
-    - [ ] Funciones con LESS.
+    - [X] Checklist de la clase.
+    - [X] Repaso de la clase anterior
+    - [ ] Arquitectura CSS.
+        - Como ordenamos los archivos antes de ser compilados ?
+          - Crear un solo archivo `styles.[ less / sass / scss ]` que se compilara en un solo archivo `styles.css`.
+          - Nomenclatura de los archivos :
+            | Inicial    | Ambito     |
+            |:----------:|:-----------|
+            | `_l-[...]` | Layout     |
+            | `_u-[...]` | Utilities  |
+            | `_c-[...]` | Components |
+            | `_h-[...]` | Helpers    |
+            | `_e-[...]` | Extends    |
+    
+    - [X] Introduccion a LESS & SASS ( y SCSS ).
 
+---
 3. Clase [0/3] - `12/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase
     - [ ] Repaso de la clase anterior.
+    - [ ] Operaciones matematicas con LESS.
+    - [ ] Funciones con LESS.
     - [ ] Trabajos en clase con LESS.
 
+---
 4. Clase [0/6] - `14/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase.
     - [ ] Repaso de la clase anterior.
