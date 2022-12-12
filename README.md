@@ -52,9 +52,10 @@
 2. Clase [0/6] - `07/12/2022` de 20 a 22 hs.
     - [X] Checklist de la clase.
     - [X] Repaso de la clase anterior
-    - [ ] Arquitectura CSS.
+    - [X] Arquitectura CSS.
         - Como ordenamos los archivos antes de ser compilados ?
           - Crear un solo archivo `styles.[ less / sass / scss ]` que se compilara en un solo archivo `styles.css`.
+          - Recordar que los archivos con inicial `_[...]` (guion bajo) son de ambito privado para el compilador.
           - Nomenclatura de los archivos :
             | Inicial    | Ambito     |
             |:----------:|:-----------|
@@ -68,9 +69,10 @@
 
 ---
 3. Clase [0/3] - `12/12/2022` de 20 a 22 hs.
-    - [ ] Checklist de la clase
+    - [X] Checklist de la clase
     - [ ] Repaso de la clase anterior.
-    - [ ] Operaciones matematicas con LESS.
+    - [ ] Compiladores + NodeJS.
+    - [ ] Operaciones ~matematicas~ con LESS.
     - [ ] Funciones con LESS.
     - [ ] Trabajos en clase con LESS.
 

@@ -1,0 +1,28 @@
+{
+  "name": "eit__60911__maquetado--sass.less",
+  "version": "1.0.0",
+  "description": "Proyecto EIT comision 60911",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabygonzalezromero/EIT__60911__Maquetado--SASS.LESS.git"
+  },
+  "keywords": [
+    "CSS",
+    "HTML",
+    "SASS",
+    "LESS"
+  ],
+  "author": "Gaby Gonzalez Romero <gabygonzalezromero@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabygonzalezromero/EIT__60911__Maquetado--SASS.LESS/issues"
+  },
+  "homepage": "https://github.com/gabygonzalezromero/EIT__60911__Maquetado--SASS.LESS#readme",
+  "dependencies": {
+    "node-sass": "8.0.0"
+  }
+}
