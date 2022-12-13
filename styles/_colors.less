@@ -1,7 +1,32 @@
 
-.header {
-    color : red ;
-    background-color : blue ;
+/*Paleta de colores :  https://coolors.co/palette/ef476f-ffd166-06d6a0-118ab2-073b4c*/
+
+@c-red900 : #ef0078 ;
+@c-yellow900 : #FFD166 ;
+@c-green900 : #06D6A0 ;
+@c-blue500 : #118AB2 ;
+
+@h-font-size : 18px ; /*Entre 16 y 18 px*/
+
+
+html {
+    font-size : @h-font-size ;
+}
+
+h1 {
+    font-size : 1 / @h-font-size ;
+}
+
+h2 {
+    font-size : ( @h-font-size - 2 ) ;
+}
+
+h3 {
+    font-size : ( @font-size * 2.5 ) ; /*font-size : 2.5rem = 18px * 2.5 = 45px  */
+}
+    .header {
+    color : @c-red900 ;
+    background-color : @c-blue500 ;
 }
 
 
