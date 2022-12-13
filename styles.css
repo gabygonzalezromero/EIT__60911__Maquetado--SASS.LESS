@@ -1,0 +1,23 @@
+@import 'reset.css';
+@import 'normalizer.css';
+.header {
+  color: red;
+  background-color: blue;
+}
+
+.header {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-content: left;
+  width: 100px;
+  height: 100px;
+}
+
+.main {
+  width: 100%;
+  height: 100%;
+  color: blue;
+}
+
+/*# sourceMappingURL=styles.css.map */
