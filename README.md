@@ -49,7 +49,7 @@
             - Less : `less --version`.
             - Sass : `sass --version`.
 ---
-2. Clase [0/6] - `07/12/2022` de 20 a 22 hs.
+2. Clase [4/4] - `07/12/2022` de 20 a 22 hs.
     - [X] Checklist de la clase.
     - [X] Repaso de la clase anterior
     - [X] Arquitectura CSS.
@@ -68,11 +68,16 @@
     - [X] Introduccion a LESS & SASS ( y SCSS ).
 
 ---
-3. Clase [0/3] - `12/12/2022` de 20 a 22 hs.
+3. Clase [4/7] - `12/12/2022` de 20 a 22 hs.
     - [X] Checklist de la clase
-    - [ ] Repaso de la clase anterior.
-    - [ ] Compiladores + NodeJS.
-    - [ ] Operaciones ~matematicas~ con LESS.
+    - [X] Repaso de la clase anterior.
+    - [X] Compiladores + NodeJS.
+        - `node init` para iniciar el proyecto con NodeJS y NPM.
+        - Creamos un script en el archivo `package.json` para compilar SASS.
+    - [X] Normalizador y Reset en Vanilla CSS.
+        - [Reset CSS](https://raw.githubusercontent.com/elad2412/the-new-css-reset/main/css/reset.css)
+        - [New Nornalizador CSS](https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css) 
+    - [ ] Operaciones ~~matematicas~~ con LESS.
     - [ ] Funciones con LESS.
     - [ ] Trabajos en clase con LESS.
 
