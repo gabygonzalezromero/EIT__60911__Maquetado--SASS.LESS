@@ -1,0 +1,130 @@
+
+Buenas buenas!!
+Aguardamos hasta las 20:05 hs. y arrancamos
+De mí a Todos (20:00)
+Buenas buenas!!
+Aguardamos hasta las 20:05 hs. y arrancamos
+De Pablo Koegler a Todos (20:01)
+ok
+De mí a Todos (20:01)
+Cualquier cosa, me escriben por aca
+De Pablo Koegler a Todos (20:01)
+De mí a Todos (20:03)
+De Brian Basabe-274294 a Todos (20:05)
+Buenas!
+De Matias Borrino-176670 a Todos (20:05)
+bienn
+De Alexis Chumbita-771859 a Todos (20:05)
+Buenas
+De Lucas Hernán Oliva-825541 a Todos (20:05)
+buenass
+De Gustavo German Boni-699656 a Todos (20:06)
+buenas
+x mi la fuente un toque mas grande
+De Franco Caputo-674989 a Todos (20:09)
+asi esta bien por mi
+De Matias Borrino-176670 a Todos (20:09)
+esta bien asi
+De lucas gresia a Todos (20:09)
+esta joya ahi
+De Gustavo German Boni-699656 a Todos (20:09)
+genial ! gracias
+algo si
+De Franco Caputo-674989 a Todos (20:12)
+mas o menos, no hubo mucho tiempo
+De lucas gresia a Todos (20:13)
+el lunes faltaso
+De Franco Caputo-674989 a Todos (20:16)
+como era el comando para que se cree la carpeta de node modules?
+ok gracias
+De Franco Caputo-674989 a Todos (20:24)
+justo estaba por preguntar lo del webkit
+pensaba que era para chrome
+esta bien saberlo
+perfecto
+y como sabemos nosotros en que propiedades usar webkit o moz?
+ok buenisimo
+De Franco Caputo-674989 a Todos (20:30)
+clamp?
+De Gustavo German Boni-699656 a Todos (20:30)
+grid
+De Franco Caputo-674989 a Todos (20:32)
+el position sticky lo soportan bastantes?
+viene bien el autocompletado
+sisi perfecto
+De Gustavo German Boni-699656 a Todos (20:34)
+subgrid esta muy pobre todavia
+De Franco Caputo-674989 a Todos (20:34)
+pasa que el otro dia vi que decian que no
+ahhh pero se refiere a css, no a los navegadores
+De Gustavo German Boni-699656 a Todos (20:35)
+En tu opinion Gaby, es conveniente desarrollar usando lo que se viene ? unque no este 100 % disponible todavia?
+Yo por ejemplo quise usar subgrid en algo y solo 2 navegadores lo soportan
+gracias !
+De Franco Caputo-674989 a Todos (20:44)
+o sea sin tocar el script
+no hay problema
+De Franco Caputo-674989 a Todos (20:56)
+y en scss es con $ Tambien?
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:59)
+buenas perdon tuve un problema
+acabo de llegar
+jaja
+De lucas gresia a Todos (21:00)
+bienvenidoo
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (21:00)
+genial
+De Matias Borrino-176670 a Todos (21:03)
+si
+De Brian Basabe-274294 a Todos (21:03)
+si
+De Gustavo German Boni-699656 a Todos (21:03)
+perfecto
+De lucas gresia a Todos (21:08)
+alpha
+De Franco Caputo-674989 a Todos (21:08)
+es mas facil para la saturacion el rgb
+se lo cambias vos
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (21:08)
+ok
+De Franco Caputo-674989 a Todos (21:09)
+turquesa ponele
+decia nada mas jaja, no se que es
+De Matias Borrino-176670 a Todos (21:10)
+falta la R en turquesa
+De lucas gresia a Todos (21:10)
+aguante el verde
+jajaja
+muy cuervoo
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (21:11)
+azul grana
+De Franco Caputo-674989 a Todos (21:12)
+no tenes que sacar los punto y com?
+coma
+FFF
+De Franco Caputo-674989 a Todos (21:19)
+se usa Tambien para el contraste alto
+para el modo de contraste alto
+por ejemplo en vez de #FFF que se use #F2F2F2
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (21:22)
+#f1f1f1f tambien
+De Franco Caputo-674989 a Todos (21:29)
+se entendio perfecto, gracias
+De Gustavo German Boni-699656 a Todos (21:42)
+operaciones matematicas?
+De lucas gresia a Todos (21:53)
+el padding solo engloba a los 4 lados
+De Gustavo German Boni-699656 a Todos (21:58)
+Gaby consulta, en css vanilla podemos combinar variables dentro de variables como estamos haciendo aca en sass ?
+De lucas gresia a Todos (22:01)
+me retiro chicos, que tengan buenas noches
+De Gustavo German Boni-699656 a Todos (22:03)
+Yo no veo tantas ventajas entre css y sass todavia, mas alla de la simplificacion de escritura :/
+oka, !!!
+genial
+De Matias Borrino-176670 a Todos (22:12)
+perfecto profe! gracias! nos vemos el lunes!
+De Brian Basabe-274294 a Todos (22:12)
+Nos vemos! Buenas noches Gaby 👍
+De Gustavo German Boni-699656 a Todos (22:12)
+buenisimo Gaby Gracias ! buena semana para todxs !
