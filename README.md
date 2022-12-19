@@ -68,7 +68,7 @@
     - [X] Introduccion a LESS & SASS ( y SCSS ).
 
 ---
-3. Clase [4/7] - `12/12/2022` de 20 a 22 hs.
+3. Clase [4/5] - `12/12/2022` de 20 a 22 hs.
     - [X] Checklist de la clase
     - [X] Repaso de la clase anterior.
     - [X] Compiladores + NodeJS.
@@ -77,23 +77,24 @@
     - [X] Normalizador y Reset en Vanilla CSS.
         - [Reset CSS](https://raw.githubusercontent.com/elad2412/the-new-css-reset/main/css/reset.css)
         - [New Nornalizador CSS](https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css) 
-    - [ ] Operaciones ~~matematicas~~ con LESS.
-    - [ ] Funciones con LESS.
-    - [ ] Trabajos en clase con LESS.
+    - [ ] Operaciones ~~matematicas~~ con LESS & SASS.
 
 ---
-4. Clase [0/6] - `14/12/2022` de 20 a 22 hs.
-    - [ ] Checklist de la clase.
-    - [ ] Repaso de la clase anterior.
-    - [ ] Introduccion a SASS.
-    - [ ] Trabajemos con SASS.
-    - [ ] Funciones avanzadas con SASS.
-    - [ ] Bucles y condicionales con SASS.
+4. Clase [5/6] - `14/12/2022` de 20 a 22 hs.
+    - [X] Checklist de la clase.
+    - [X] Repaso de la clase anterior.
+    - [x] Funciones con less.
+    - [X] @import vs @use.
+    - [X] Variables con SASS.
+    - [ ] Funciones con SASS.
 
 5. Clase [0/3] - `19/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase.
     - [ ] Repaso de la clase anterior.
+    - [ ] Uso de PostCSS.
     - [ ] Trabajo de clase con SASS.
+    - [ ] Funciones avanzadas con SASS.
+    - [ ] Bucles y condicionales con SASS.
 
 6. Clase [0/6] - `21/12/2022` de 20 a 22 hs. 
     - [ ] Checklist de la clase.
