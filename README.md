@@ -91,9 +91,13 @@
 5. Clase [0/3] - `19/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase.
     - [ ] Repaso de la clase anterior.
-    - [ ] Uso de PostCSS.
+    - [ ] ~~Uso de PostCSS~~.
     - [ ] Trabajo de clase con SASS.
-    - [ ] Funciones avanzadas con SASS.
+      - [ ] List
+      - [ ] Maps
+      - [ ] @mixin ( + default ) / @include
+      - [ ] @for
+    - [ ] Funciones avanzadas con SASS ( Maps + @mixin + @for).
     - [ ] Bucles y condicionales con SASS.
 
 6. Clase [0/6] - `21/12/2022` de 20 a 22 hs. 
