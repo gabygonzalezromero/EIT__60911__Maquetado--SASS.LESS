@@ -46,17 +46,68 @@
     <meta name="msapplication-square150x150logo" content="icon_mediumtile.png" />
     <meta name="msapplication-wide310x150logo" content="icon_widetile.png" />
 
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./styles/reset.css"> <!-- Hoja de estilos : Reset -->
+    <link rel="stylesheet" href="./styles/normalizer.css"> <!-- Hoja de estilos : Normalizadora -->
+    <link rel="stylesheet" href="./styles.css" /> <!-- Hoja de estilos : Post compilador -->
 
     <title> </title>
 
     <link rel="manifest" href="/manifest.json" /> 
  
     <script type="module" src="/src/main.tsx" defer ></script>
-  </head> <!-- Fin Head -->
-  <body class="body" >
+  </head>
 
-    <div id="root"></div>
+  <body class="body" >
+    <!-- Comienzo Header -->
+    <header class="Header" >
+      <section class="section">
+        <nav class="navbar" >
+
+        </nav>
+        <article class="article">
+          <main class="article__main"></main>
+          <footer class="article__footer"></footer>
+        </article>
+      </section>
+    </header>
+    <!-- Final Header -->
+    <aside class="Aside" >
+      
+    </aside>
+    <!-- Fin Aside -->
+    <!-- Comienzo Main -->
+    <main class="Main" >
+      <section class="section">
+        <article class="article">
+          <header class="article__header">
+            <h1 class="title" >Soy el t&iacute;tulo</h1>
+            <h2 class="subtitle" >Soy el subtitulo</h2>
+          </header>
+        </article>
+        <article>
+          <ul class="menu">
+            <li class="menu__item">
+              <a href="">Item 1</a>
+            </li>
+            <li class="menu__item">
+              <a href="">Item 2</a>
+            </li>
+            <li class="menu__item">
+              <a href="">Item 3</a>
+            </li>
+            <li class="menu__item">
+              <a href="">Item 4</a>
+            </li>
+          </ul>
+        </article>
+      </section>
+    </main>
+    <!-- Fin Main -->
+    <!-- Comienzo Footer -->
+    <footer class="Footer" >
+
+    </footer>
+    <!-- Fin Footer --> 
   
   </body> <!-- Fin Body -->
 </html>

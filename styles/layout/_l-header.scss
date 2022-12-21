@@ -1,0 +1,15 @@
+// ** Comienzo Header **
+
+.header {
+    grid-area: Header ;
+
+    & section {
+        border : 2px solid blue ;
+
+        & article {
+            border : 2px solid red ;
+        }
+    }
+
+}
+

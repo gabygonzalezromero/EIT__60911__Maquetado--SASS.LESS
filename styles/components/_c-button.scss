@@ -1,0 +1,19 @@
+// Listas = 'Valor'
+$margen : ( 0 , 10px , 50% , 3rem ) ;
+
+// Maps = 'Clave' : Valor
+$paddin : ( 'top' : 0 , 'right' : 1rem , 'button' : 5px , 'left' : 1rem ) ;
+
+
+button {
+    // Medidas
+    width: 300px ;
+    height: 100px ;
+    // Propiedades espaciales
+    @include Display( inline-block , row nowrap , center , center ) ;
+    vertical-align: middle ;
+    // Propiedades fuentes
+    text-align: center ;
+    color : red ;
+    // Propiedades de animacion y/o transformacion
+}

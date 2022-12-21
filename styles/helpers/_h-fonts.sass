@@ -1,0 +1,11 @@
+$prefix : 'font'
+$prefix2 : 'line'
+
+$Font-map : ( 'size' : 16px , 'heigt' : 1.5 , 'weight' : 500 , 'style' : 'normal' )
+
+@each $prop , $value in $Font-map
+  html
+    @if map-key( $Font-map , 'heigt' )
+      #{ $prefix2 }-#{ $prop } : $value
+    @else
+      #{ $prefix }-#{ $prop } : $value 

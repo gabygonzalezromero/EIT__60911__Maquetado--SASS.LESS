@@ -89,28 +89,28 @@
     - [ ] Funciones con SASS.
 
 5. Clase [0/3] - `19/12/2022` de 20 a 22 hs.
-    - [ ] Checklist de la clase.
-    - [ ] Repaso de la clase anterior.
+    - [X] Checklist de la clase.
+    - [X] Repaso de la clase anterior.
     - [ ] ~~Uso de PostCSS~~.
     - [ ] Trabajo de clase con SASS.
-      - [ ] List
-      - [ ] Maps
-      - [ ] @mixin ( + default ) / @include
-      - [ ] @for
+      - [X] List
+      - [x] Maps
+      - [X] @mixin ( + default ) / @include
+      - [X] @for
     - [ ] Funciones avanzadas con SASS ( Maps + @mixin + @for).
     - [ ] Bucles y condicionales con SASS.
 
 6. Clase [0/6] - `21/12/2022` de 20 a 22 hs. 
     - [ ] Checklist de la clase.
     - [ ] Repaso de la clase anterior.
-    - [ ] Transformaciones.
-    - [ ] Transformaciones avanzadas.
-    - [ ] Transiciones.
-    - [ ] Transiciones avanzadas.
 
 7. Clase [0/6] - `26/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase.
     - [ ] Repaso de la clase anterior.
+    - [ ] Transformaciones.
+    - [ ] Transformaciones avanzadas.
+    - [ ] Transiciones.
+    - [ ] Transiciones avanzadas.
     - [ ] Animaciones.
     - [ ] Animaciones avanzadas.
     - [ ] Conceptos avanzados.

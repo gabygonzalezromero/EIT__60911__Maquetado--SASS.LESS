@@ -1,23 +1,19 @@
-@import 'reset.css';
-@import 'normalizer.css';
-.header {
-  color: red;
-  background-color: blue;
-}
+/* Error: ("size": 16px, "heigt": 1.5, "weight": 500, "style": "normal") isn't a valid CSS value.
+ *   ,
+ * 8 |     @if map-key( $Font-map , 'heigt' )
+ *   |                  ^^^^^^^^^
+ *   '
+ *   styles/helpers/_h-fonts.sass 8:18  @import
+ *   styles/helpers/helpers.sass 2:9    @import
+ *   styles/styles.sass 9:9             root stylesheet */
 
-.header {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: center;
-  align-content: left;
-  width: 100px;
-  height: 100px;
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: (\"size\": 16px, \"heigt\": 1.5, \"weight\": 500, \"style\": \"normal\") isn't a valid CSS value.\a   \2577 \a 8 \2502      @if map-key( $Font-map , 'heigt' )\a   \2502                   ^^^^^^^^^\a   \2575 \a   styles/helpers/_h-fonts.sass 8:18  @import\a   styles/helpers/helpers.sass 2:9    @import\a   styles/styles.sass 9:9             root stylesheet";
 }
-
-.main {
-  width: 100%;
-  height: 100%;
-  color: blue;
-}
-
-/*# sourceMappingURL=styles.css.map */
