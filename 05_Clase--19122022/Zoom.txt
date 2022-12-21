@@ -1,0 +1,159 @@
+De mí a Todos (20:00)
+Buenas noches campeones ! 🏆
+Arrancamos a las 20:05 hs
+De Brian Basabe-274294 a Todos (20:02)
+Buenas Gaby como estas?, Dale perfecto 👍
+De Diego Barragan-366216 a Todos (20:02)
+Buenas buenas.. no mori! he vuelto
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:03)
+somo campeones del mundo!!!!!!
+Vamos!+
+De mí a Todos (20:03)
+🤯
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:03)
+jeejej
+es de no creer
+mo caigo
+De mí a Todos (20:04)
+Confieso que llore varias veces de la emoción ayer
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:04)
+somos varios!
+De Diego Barragan-366216 a Todos (20:04)
+fue un dia para llorar
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:05)
+si no sufrimos no somos argentinos!
+De Gustavo German Boni-699656 a Todos (20:05)
+buenas !!!
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:05)
+jejeej
+De PABLO KOEGLER a Todos (20:05)
+BUENAS
+De Matias Borrino-176670 a Todos (20:05)
+holaa
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:05)
+si si
+De Matias Borrino-176670 a Todos (20:05)
+sisi se escucha bien
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:05)
+buenassssssss
+De Gustavo German Boni-699656 a Todos (20:05)
+seeeeee
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:05)
+olvidate
+todos
+De Alexis Chumbita-771859 a Todos (20:05)
+Buenas!
+De PABLO KOEGLER a Todos (20:05)
+profe sabe q en el discord no puedo visualizar los contenidos. xq debe ser?
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:06)
+estan en ezeiza
+jeej
+2
+De lucas gresia a Todos (20:07)
+hola profe
+profe, yo sigo teniendo problemas con less
+:(
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:09)
+se usa mas sass o scss si bien es lo mismo
+?
+De Franco Caputo-674989 a Todos (20:10)
+a mi por ejemplo me funciona mejor el autocompletado en scss, pero debe ser algo de extensiones supongo
+De Diego Barragan-366216 a Todos (20:14)
+porfa me viene de 10
+De lucas gresia a Todos (20:18)
+da igual, se ve joya
+De Matias Borrino-176670 a Todos (20:18)
+ahi esta bien
+De lucas gresia a Todos (20:24)
+jajaaj
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (20:36)
+un print
+De Gustavo German Boni-699656 a Todos (20:37)
+gaby perdon, me agrandas un toque la fuente? Justo hoy estoy en una pantalla un toque pequeña
+genial graciassss
+De Gustavo German Boni-699656 a Todos (20:43)
+hay alguna forma de hacer un debug de todas las variables juntas ?
+por ejemplo para encontrar algunb erro
+ok suena logico
+claro, yo iba puntualmente a algun cambio que hayamos hecho y no sepamos que es
+todo ok
+De Brian Basabe-274294 a Todos (20:46)
+vamos bien!
+De Matias Borrino-176670 a Todos (20:46)
+no..nada
+De lucas gresia a Todos (20:46)
+todo bien
+De Diego Barragan-366216 a Todos (20:46)
+todo tranca
+De Gustavo German Boni-699656 a Todos (20:47)
+perfecto, se entiende ! hay que llevar bien el proyecto de arranque
+De lucas gresia a Todos (20:48)
+mañana es feriado
+asique mandalee
+De Gustavo German Boni-699656 a Todos (20:56)
+ctr+shift+a
+a mi me funciona
+De Alexis Chumbita-771859 a Todos (21:14)
+ahi se empieza a ver la ventaja, el poder de reutilizar codigo
+De Gustavo German Boni-699656 a Todos (21:14)
+todo ok
+De lucas gresia a Todos (21:14)
+es genial
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (21:14)
+NO
+De Brian Basabe-274294 a Todos (21:15)
+vamos bien
+De lucas gresia a Todos (21:19)
+perdonado
+De Gustavo German Boni-699656 a Todos (21:28)
+ahora me está gustando
+De Matias Borrino-176670 a Todos (21:32)
+todo ok
+De Gustavo German Boni-699656 a Todos (21:32)
+tod ok
+De Alexis Chumbita-771859 a Todos (21:35)
+@use es para importar?
+Aa ok
+De Gustavo German Boni-699656 a Todos (21:37)
+tenes repetido mixin
+De Alexis Chumbita-771859 a Todos (21:38)
+esto seria aplicar el concepto de modularizacion?
+De Alexis Chumbita-771859 a Todos (21:42)
+puso mal Display
+falta la s
+la l
+no la s jajaj
+el guin bajo?
+De Gustavo Daniel Baranda Cabrera-810147 a Todos (21:55)
+se recorre con un for?
+De Gustavo German Boni-699656 a Todos (22:00)
+tenes mal los pratentesis
+un parentesis demas
+De Alexis Chumbita-771859 a Todos (22:01)
+falta ; ?
+we :v
+De Brian Basabe-274294 a Todos (22:06)
+throw no era?
+😢
+De Gustavo German Boni-699656 a Todos (22:06)
+through
+De Brian Basabe-274294 a Todos (22:07)
+aaa ese era jaja
+De Gustavo German Boni-699656 a Todos (22:07)
+la h
+gabi, te quiero pedir si podras tirarnos algunos recursos o documentaciones para escritura BEM
+De Matias Borrino-176670 a Todos (22:10)
+todo ok!
+De Gustavo German Boni-699656 a Todos (22:11)
+porque como no es oficial encuentro de todo
+genial !
+De Matias Borrino-176670 a Todos (22:15)
+nos vemos!! buenas noches!
+De Gustavo German Boni-699656 a Todos (22:15)
+genial Gaby, gracias !!!
+De Brian Basabe-274294 a Todos (22:15)
+Buenisimo! Nos vemos el miercoles
+De Gustavo German Boni-699656 a Todos (22:15)
+buenas noches !
+De Alexis Chumbita-771859 a Todos (22:15)
+Buenas noches
