@@ -97,24 +97,22 @@
       - [x] Maps
       - [X] @mixin ( + default ) / @include
       - [X] @for
-    - [ ] Funciones avanzadas con SASS ( Maps + @mixin + @for).
-    - [ ] Bucles y condicionales con SASS.
 
-6. Clase [0/6] - `21/12/2022` de 20 a 22 hs. 
-    - [ ] Checklist de la clase.
-    - [ ] Repaso de la clase anterior.
+6. Clase [3/3] - `21/12/2022` de 20 a 22 hs. 
+    - [X] Checklist de la clase.
+    - [X] Repaso de la clase anterior.
+    - [X] Trabajo de clase con SASS.
+      - [X] List `$lista : ( ... , ... , ...)`
+      - [x] Maps `$map : ( 'clave' : valor , 'clave' : valor , ... )`
+      - [X] @mixin ( + default ) / @include
+      - [X] @for `@for $i from 1 to/through 3`
 
 7. Clase [0/6] - `26/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase.
     - [ ] Repaso de la clase anterior.
-    - [ ] Transformaciones.
-    - [ ] Transformaciones avanzadas.
-    - [ ] Transiciones.
-    - [ ] Transiciones avanzadas.
-    - [ ] Animaciones.
-    - [ ] Animaciones avanzadas.
-    - [ ] Conceptos avanzados.
-    - [ ] Animaciones y JS.
+    - [ ] @map-value && keys
+    - [ ] Funciones avanzadas con SASS ( Maps + @mixin + @for).
+    - [ ] Bucles y condicionales con SASS.
 
 8. Clase [0/6] - `28/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase.

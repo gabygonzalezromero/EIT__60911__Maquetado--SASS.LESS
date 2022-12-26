@@ -1,11 +1,41 @@
+// @use 'sass:map'
+
 $prefix : 'font'
-$prefix2 : 'line'
-
-$Font-map : ( 'size' : 16px , 'heigt' : 1.5 , 'weight' : 500 , 'style' : 'normal' )
-
-@each $prop , $value in $Font-map
+$paddin : 'paddin'
+  
+$Boton-size : ( .2rem , 1.2rem , 2.2rem )
+$Fonts-map : ( 'size' : 16px , 'weight' : 500 , 'style' : 'normal' )
+    
+//Bucle Each
+@each $clave , $valor in $Fonts-map
   html
-    @if map-key( $Font-map , 'heigt' )
-      #{ $prefix2 }-#{ $prop } : $value
-    @else
-      #{ $prefix }-#{ $prop } : $value 
+    #{ $prefix }-#{ $clave } : #{ $valor }
+
+
+// Bucle For
+
+@for $i from 1 through 2 // Iteraciones 4 indices 4
+  .Aside
+    padding : #{ $Boton-size }
+
+@for $i from 1 through 4
+  h#{ $i }
+    #{ $prefix }-size : clamp( #{ $Boton-size } )
+
+
+
+$colorLight : #fff
+$colorDark : #000
+
+// @debug map-keys( $Fonts-map , 'size' )
+
+@mixin Buton3 ( $color1 : true )
+  @if $color1
+    background-color: $colorLight
+    border : 1px solid red
+
+
+button
+  @include Buton3
+  
+   

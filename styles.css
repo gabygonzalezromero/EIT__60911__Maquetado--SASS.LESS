@@ -1,19 +1,64 @@
-/* Error: ("size": 16px, "heigt": 1.5, "weight": 500, "style": "normal") isn't a valid CSS value.
- *   ,
- * 8 |     @if map-key( $Font-map , 'heigt' )
- *   |                  ^^^^^^^^^
- *   '
- *   styles/helpers/_h-fonts.sass 8:18  @import
- *   styles/helpers/helpers.sass 2:9    @import
- *   styles/styles.sass 9:9             root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: (\"size\": 16px, \"heigt\": 1.5, \"weight\": 500, \"style\": \"normal\") isn't a valid CSS value.\a   \2577 \a 8 \2502      @if map-key( $Font-map , 'heigt' )\a   \2502                   ^^^^^^^^^\a   \2575 \a   styles/helpers/_h-fonts.sass 8:18  @import\a   styles/helpers/helpers.sass 2:9    @import\a   styles/styles.sass 9:9             root stylesheet";
+html {
+  font-size: 16px;
 }
+
+html {
+  font-weight: 500;
+}
+
+html {
+  font-style: normal;
+}
+
+.Aside {
+  padding: 0.2rem, 1.2rem, 2.2rem;
+}
+
+.Aside {
+  padding: 0.2rem, 1.2rem, 2.2rem;
+}
+
+h1 {
+  font-size: clamp( 0.2rem, 1.2rem, 2.2rem );
+}
+
+h2 {
+  font-size: clamp( 0.2rem, 1.2rem, 2.2rem );
+}
+
+h3 {
+  font-size: clamp( 0.2rem, 1.2rem, 2.2rem );
+}
+
+h4 {
+  font-size: clamp( 0.2rem, 1.2rem, 2.2rem );
+}
+
+button {
+  background-color: #fff;
+  border: 1px solid red;
+}
+
+.header {
+  grid-area: Header;
+}
+.header section {
+  border: 2px solid blue;
+}
+.header section article {
+  border: 2px solid red;
+}
+
+button {
+  width: 300px;
+  height: 100px;
+  display: inline-block;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  text-align: center;
+  color: red;
+}
+
+/*# sourceMappingURL=styles.css.map */
