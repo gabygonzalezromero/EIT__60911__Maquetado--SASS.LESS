@@ -1,0 +1,286 @@
+html {
+    font-size : 18px ;
+}
+
+:root {
+
+    /* Paleta de colores HEX */
+    /*https://coolors.co/palette/ef476f-ffd166-06d6a0-118ab2-073b4c*/
+    /*/https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429 */
+    --c_red600 : #ef476fff;
+    --c_cyan600 : #ffd166ff;
+    --c_green600 : #06d6a0ff;
+    --c_green900: #073b4cff;
+    --c_yellow600 : #118ab2ff;
+    --c_white : #fff ;
+    --c_black : #000 ;
+
+    --c_grey100 : #EDF2F4 ;
+
+    /*Paleta HSL*/
+    /*https://coolors.co/palette/03045e-023e8a-0077b6-0096c7-00b4d8-48cae4-90e0ef-ade8f4-caf0f8*/
+    --c-blue900 : hsla(239, 94%, 19%, 1);
+    --c_blue800 : hsla(214, 97%, 27%, 1);
+    --c_blue700 : hsla(201, 100%, 36%, 1);
+    --c_blue600 : hsla(195, 100%, 39%, 1);
+    --c_blue500 : hsla(190, 100%, 42%, 1);
+    --c_blue400 : hsla(189, 74%, 59%, 1);
+    --c_blue300 : hsla(189, 75%, 75%, 1);
+    --c_blue200 : hsla(190, 76%, 82%, 1);
+    --c_blue100 : hsla(190, 77%, 88%, 1);
+
+}
+
+/*Absolutas : px in cm ,*/
+/*Relativas : em , rem , % , viewport (vh vw)*/
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-weight : 400 ;
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box ;
+}
+
+h1 { font-size: 2rem ; /* fuente base 14px * 20 = ...*/ }
+h2 { font-size: 1.75rem ; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+p { font-size: 1rem; }
+
+.container {
+    padding: 0 10px ;
+}
+
+.body {
+    display : grid ;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10vh 75vh 15vh;
+    grid-template-areas:
+        "Header Header"
+        "Main Main"
+        "Footer Footer"
+}
+
+.header {
+    grid-area : Header ;
+    background: hsla(191, 75%, 60%, 1);
+    background: linear-gradient(180deg, var( --c_blue800 ) 0%, var( --c_blue300 ) 100%);
+    background: -moz-linear-gradient(180deg, var( --c_blue800 ) 0%, var( --c_blue300) 100%);
+    background: -webkit-linear-gradient(180deg,var( --c_blue800 ) 0%, var( --c_blue300 ) 100%);
+}
+
+.header .section {
+    height: 100% ;
+}
+
+.header section .navbar {
+    display: flex;
+    flex-flow : row nowrap ;
+    justify-content : space-between ;
+    align-items : center ;
+
+    height : 100% ;
+}
+
+.header .section .navbar .logo {
+    display: flex ;
+    place-items: center ;
+    gap : 1rem ;
+
+    padding : .5rem 1.5rem ;
+
+    background-color: var( --c_white ) ;
+    border-radius: 2rem ;
+
+    color : var( --c_black ) ;
+    text-decoration: none;
+}
+
+.header .section .navbar .logo span:hover {
+    transition: 2s ease-in;
+    rotate: 45deg ;
+}
+
+.header .section .navbar .logo figure {
+    display: inline-flex ;
+    place-items: center;
+
+    height: 100%;
+}
+
+.header section .navbar {
+    display: flex;
+    flex-flow : row nowrap ;
+    justify-content : space-between ;
+    align-items : center ;
+
+    height: 100% ;
+
+    padding : 0 2rem ;
+}
+
+.header .section .navbar .button {
+    width: 2rem;
+    height: 2rem;
+
+    display: flex ;
+    flex-flow : column nowrap ;
+    justify-content : center ;
+    align-items : center ;
+    gap : 0.5rem ;
+    background-color: transparent ;
+
+    border : 0 ;
+}
+
+.header .section .navbar .button > span {
+    border : 2px solid var( --c_white ) ;
+    border-radius : 5px ;
+    width : 100% ;
+    
+    transition : all .5s ;
+    transform-origin : left ;
+}
+
+.header .section .navbar .button:hover span:first-child {
+    transform : rotate( 45deg ) ;
+}
+
+.header .section .navbar .button:hover span:nth-child(2){
+    opacity : 0 ;
+}
+
+.header .section .navbar .button:hover span:last-child {
+    transform : rotate( -45deg ) ;
+}
+
+.header .section .navbar .navbar__menu {
+    display: none;
+    position : relative ;
+}
+
+.header .section .navbar .button:hover .navbar__menu {
+    display: block ;
+}
+
+.header .section .navbar .navbar__menu--item {}
+
+.header .section .navbar .navbar__menu--item a {
+    text-decoration : none ;
+}
+
+
+ /*Comienzo .Aside*/
+.aside {
+}
+
+/* Fin Aside */
+
+/* Comienzo Main */
+
+.main {
+    grid-area : Main ;
+
+    background-color: var( --c_grey100 );
+
+}
+
+.main .section {
+    display : flex ;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+
+    width: 100% ;
+}
+
+.main .section .article__header {
+    margin: 2rem ;
+
+    text-align: center;
+}
+
+.main .section .article__header--title {
+    font-weight: 600;
+}
+
+.main .section .article__header--subtitle {
+    font-weight: 400;
+}
+
+
+.main .section .article__main--menu {
+    display: flex;
+    flex-flow: column nowrap ;
+    align-items: center;
+    gap : 2rem ;
+
+    margin-top: 3rem;
+}
+
+.main .section .article__main--menu--item {
+    display : flex ;
+    place-content: center ;
+
+    width: 40vw;
+    padding: .5rem ;
+
+    border-radius: 2rem ;
+
+    list-style-type: none ;
+    box-shadow: var(--c_blue400) ;
+
+    background-color: var( --c_blue500 );
+}
+
+.main .section .article__main--menu--item a {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+}
+
+.main .section .article__main--menu--item span {
+    color : var( --c_white ) ;
+}
+
+.main .section .article__main--menu--item:hover {
+    background-color: var( --c_blue700 ) ;
+    box-shadow: .25rem .25rem var( --c_blue800 );
+
+    transition: .3s ease-out;
+    border-bottom: 1px solid var( --c_blue800 );
+    border-right: 1px solid var( --c_blue800 );
+
+}
+
+.main .section .article__main--menu--item figure {
+    width: 2rem;
+    height: 2rem;
+}
+
+.main .section .article__main--menu--item figure img {
+    background: radial-gradient(circle, hsla(0, 0%, 100%, 1) 55%, transparent 100%); ;
+    border-radius: 50% ;
+}
+
+
+ /*Comienzo Footer*/
+.footer {
+    grid-area : Footer ;
+    background: var( --c_blue500 );
+}
+
+.footer .section {
+    display: flex ;
+    flex-flow : row nowrap ;
+    justify-content : center ;
+    align-items : center ;
+
+    height: 100%;
+
+    text-align: center;
+}
