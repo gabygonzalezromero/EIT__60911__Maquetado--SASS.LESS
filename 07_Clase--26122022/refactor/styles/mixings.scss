@@ -1,0 +1,8 @@
+
+
+@mixin Flex ( $display , $flexFlow , $jContent , $aItems ){
+    display: $display;
+    flex-flow : $flexFlow ;
+    justify-content : $jContent ;
+    align-items : $aItems ;
+}

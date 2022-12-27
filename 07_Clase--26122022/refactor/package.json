@@ -1,0 +1,13 @@
+{
+  "name": "refactor",
+  "version": "1.0.0",
+  "description": "## EIT__59966__Maquetado--HTML5.CSS3 ### Comision #59966 - Maquetado HTML5 &amp; CSS3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "sass": "sass --watch --style=expanded styles/styles.scss:styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

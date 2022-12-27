@@ -1,0 +1,17 @@
+@use './_h-colors';
+
+/*Comienzo Footer*/
+
+ .footer {
+    grid-area : Footer ;
+    background: h-colors.$c_blue500 ;
+
+    & .section {
+        @include Flex ( flex , row nowrap , center , center ) ;
+    
+        height: 100%;
+    
+        text-align: center;
+    }
+
+}

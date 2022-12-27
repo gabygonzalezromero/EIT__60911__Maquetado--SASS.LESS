@@ -1,0 +1,10 @@
+
+.body {
+    display : grid ;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10vh 75vh 15vh;
+    grid-template-areas:
+        "Header Header"
+        "Main Main"
+        "Footer Footer"
+}
