@@ -1,5 +1,6 @@
 // Comienzo Main
 @use './h-colors';
+// TODO: Explicar : Agregar el gap en el mixin
 
 .main {
     grid-area : Main ;
@@ -22,9 +23,8 @@
             &__main {
                 
                 &--menu {
-                    @include Flex ( flex , column nowrap , center , center ) ;
-                    gap : 2rem ;
-                
+                    @include Flex ( flex , column nowrap , center , center , 2rem) ;
+                    
                     margin-top: 3rem;
 
                     &--item {
@@ -41,8 +41,8 @@
                         background-color: h-colors.$c_blue500 ;
 
                         & a {
-                            @include Flex ( flex , row nowrap , center , center ) ;
-                            gap: 1rem;
+                            @include Flex ( flex , row nowrap , center , center , 1rem ) ;
+
                             text-decoration: none;
 
                             & figure {

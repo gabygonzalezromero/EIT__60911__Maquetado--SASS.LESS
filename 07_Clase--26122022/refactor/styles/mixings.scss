@@ -1,8 +1,15 @@
+@charset 'UTF-8';
 
+// TODO: Explicar el $gap con el resultado por defalt
 
-@mixin Flex ( $display , $flexFlow , $jContent , $aItems ){
+@mixin Flex ( $display , $flexFlow , $jContent , $aItems , $gap : false){
     display: $display;
     flex-flow : $flexFlow ;
     justify-content : $jContent ;
     align-items : $aItems ;
+    
+    //TODO: Explicar el @if
+    @if $gap {
+        gap : $gap
+    }
 }
