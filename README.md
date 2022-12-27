@@ -108,11 +108,12 @@
       - [X] @for `@for $i from 1 to/through 3`
 
 7. Clase [0/6] - `26/12/2022` de 20 a 22 hs.
-    - [ ] Checklist de la clase.
-    - [ ] Repaso de la clase anterior.
-    - [ ] @map-value && keys
-    - [ ] Funciones avanzadas con SASS ( Maps + @mixin + @for).
-    - [ ] Bucles y condicionales con SASS.
+    - [X] Checklist de la clase.
+    - [X] Repaso de la clase anterior.
+    - [X] Refactorizacion de un proyecto. 
+    - [ ] ~~@map-value && keys~~
+    - [ ] ~~Funciones avanzadas con SASS ( Maps + @mixin + @for).~~
+    - [ ] ~~Bucles y condicionales con SASS.~~
 
 8. Clase [0/6] - `28/12/2022` de 20 a 22 hs.
     - [ ] Checklist de la clase.
