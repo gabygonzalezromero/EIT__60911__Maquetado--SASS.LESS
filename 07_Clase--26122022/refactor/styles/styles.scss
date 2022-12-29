@@ -4,39 +4,19 @@
 // 1ra. iteracion : 279 lineas
 // 2da. iteracion : 263 lineas
 // 3ra. iteracioin : 42 lineas + componentizacion
+// 4ta. iteracion : 19 lineas + componentizacion
 
 @import 'mixings' ;
 
 @import '_h-colors';
+@import '_h-fonts' ;
 
-html {
-    font-size : 18px ;
-}
-
-
-* {
-    font-family: 'Montserrat', sans-serif;
-    font-weight : 400 ;
-    margin: 0 ;
-    padding: 0 ;
-    box-sizing: border-box ;
-}
-
-h1 { font-size: 2rem ; /* fuente base 14px * 20 = ...*/ }
-h2 { font-size: 1.75rem ; }
-h3 { font-size: 1.5rem; }
-h4 { font-size: 1.25rem; }
-p { font-size: 1rem; }
-
-.container {
-    padding: 0 10px ;
-}
-
+// Layout
 @import '_l-grid';
-
-// etiqueta superior & ...
-
 @import '_l-header';
 @import '_l-aside';
 @import '_l-main';
 @import '_l-footer';
+
+// Components
+@import '_c-lists';

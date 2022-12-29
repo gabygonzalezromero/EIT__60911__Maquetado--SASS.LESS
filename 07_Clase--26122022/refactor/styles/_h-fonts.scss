@@ -1,0 +1,23 @@
+
+//
+$font-size : 18px ;
+$fonts-settings : (
+    "font-family" : 'Montserrat' ,
+    "font-weight" : 400 ,
+    "margin" : 0 ,
+    "padding" : 0 ,
+    "box-sizing" : border-box
+ );
+
+html {
+    font-size : $font-size ;
+}
+
+
+
+h1 { font-size: 2rem ; /* fuente base 14px * 20 = ...*/ }
+h2 { font-size: 1.75rem ; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+p { font-size: 1rem; }
+

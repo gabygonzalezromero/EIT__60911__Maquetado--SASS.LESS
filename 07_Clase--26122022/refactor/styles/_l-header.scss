@@ -4,6 +4,7 @@
 
 .header {
     grid-area : Header ;
+    
     background: hsla(191, 75%, 60%, 1);
     background: linear-gradient(180deg, h-colors.$c_blue800 0%, h-colors.$c_blue300 100%);
     background: -moz-linear-gradient(180deg, h-colors.$c_blue800 0%, h-colors.$c_blue300 100%);

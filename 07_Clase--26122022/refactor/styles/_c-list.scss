@@ -1,0 +1,51 @@
+@import './mixings.scss' ;
+
+@use './h-colors' ;
+
+
+menu {
+    @include Flex ( flex , column nowrap , center , center , 2rem) ;
+    
+    margin-top: 3rem;
+
+    &--item {
+        display : flex ;
+        place-content: center ;
+    
+        width: 40vw;
+        padding: .5rem ;
+    
+        border-radius: 2rem ;
+    
+        list-style-type: none ;
+    
+        background-color: h-colors.$c_blue500 ;
+
+        & a {
+            @include Flex ( flex , row nowrap , center , center , 1rem ) ;
+
+            text-decoration: none;
+
+            & figure {
+                width: 2rem;
+                height: 2rem;
+
+                & img {
+                    background: radial-gradient(circle, hsla(0, 0%, 100%, 1) 55%, transparent 100%); ;
+                    border-radius: 50% ;
+                }
+            }
+        }
+        
+        & span { color : h-colors.$c_white ; }
+
+        &:hover {
+            background-color: h-colors.$c_blue700 ;
+            box-shadow: .25rem .25rem h-colors.$c_blue800 ;
+        
+            transition: .3s ease-out;
+            border-bottom: 1px solid h-colors.$c_blue800 ;
+            border-right: 1px solid h-colors.$c_blue800 ;   
+        }
+    }   
+} 
