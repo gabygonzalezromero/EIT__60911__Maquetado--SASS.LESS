@@ -116,8 +116,9 @@
     - [ ] ~~Bucles y condicionales con SASS.~~
 
 8. Clase [0/6] - `28/12/2022` de 20 a 22 hs.
-    - [ ] Checklist de la clase.
-    - [ ] Repaso de la clase anterior
-    - [ ] Repaso de LESS y SASS.
-    - [ ] Estructura de un proyecto completo con SASS.
-    - [ ] Cierre final.
+    - [X] Checklist de la clase.
+    - [X] Repaso de la clase anterior
+    - [X] Repaso de ~~LESS~~ y SASS.
+    - [X] Estructura de un proyecto completo con SASS.
+        - Estructura de un proyecto desde cero con SASS (Arquitectura completa) : [Repo](https://github.com/gabygonzalezromero/snippet-sass)
+    - [X] Cierre final.
